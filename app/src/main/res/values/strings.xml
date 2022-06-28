@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Pansol</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an_one_time_password_on_this_mobile_number">We will send you an one time Password on this mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">Verify</string>
+    <string name="_63">+63-</string>
+    <string name="enter_description">Description:</string>
+    <string name="enter_title">Title:</string>
+    <string name="save_announcement">Save Announcement</string>
+    <string name="disagree">Disagree</string>
+    <string name="sec_11_general_data_privacy_principles_the_processing_of_personal_information_shall_be_allowed_subject_to_compliance_with_the_requirements_of_this_act_and_other_laws_allowing_disclosure_of_information_to_the_public_and_adherence_to_the_principles_of_transparency_legitimate_purpose_and_proportionality_n_npersonal_information_must_be_n_n_a_collected_for_specified_and_legitimate_purposes_determined_and_declared_before_or_as_soon_as_reasonably_practicable_after_collection_and_later_processed_in_a_way_compatible_with_such_declared_specified_and_legitimate_purposes_only_n_n_b_processed_fairly_and_lawfully_n_n_c_accurate_relevant_and_where_necessary_for_purposes_for_which_it_is_to_be_used_the_processing_of_personal_information_kept_up_to_date_inaccurate_or_incomplete_data_must_be_rectified_supplemented_destroyed_or_their_further_processing_restricted_n_n_d_adequate_and_not_excessive_in_relation_to_the_purposes_for_which_they_are_collected_and_processed_n_n_e_retained_only_for_as_long_as_necessary_for_the_fulfillment_of_the_purposes_for_which_the_data_was_obtained_or_for_the_establishment_exercise_or_defense_of_legal_claims_or_for_legitimate_business_purposes_or_as_provided_by_law_and_n_n_f_kept_in_a_form_which_permits_identification_of_data_subjects_for_no_longer_than_is_necessary_for_the_purposes_for_which_the_data_were_collected_and_processed_provided_that_personal_information_collected_for_other_purposes_may_lie_processed_for_historical_statistical_or_scientific_purposes_and_in_cases_laid_down_in_law_may_be_stored_for_longer_periods_provided_further_that_adequate_safeguards_are_guaranteed_by_said_laws_authorizing_their_processing_n_n_the_personal_information_controller_must_ensure_implementation_of_personal_information_processing_principles_set_out_herein">SEC. 11. General Data Privacy Principles. – The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.\n\nPersonal information must, be:,\n\n (a) Collected for specified and legitimate purposes determined and declared before, or as soon as reasonably practicable after collection, and later processed in a way compatible with such declared, specified and legitimate purposes only;\n\n (b) Processed fairly and lawfully;\n\n (c) Accurate, relevant and, where necessary for purposes for which it is to be used the processing of personal information, kept up to date; inaccurate or incomplete data must be rectified, supplemented, destroyed or their further processing restricted;\n\n (d) Adequate and not excessive in relation to the purposes for which they are collected and processed;\n\n (e) Retained only for as long as necessary for the fulfillment of the purposes for which the data was obtained or for the establishment, exercise or defense of legal claims, or for legitimate business purposes, or as provided by law; and\n\n (f) Kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the data were collected and processed: Provided, That personal information collected for other purposes may lie processed for historical, statistical or scientific purposes, and in cases laid down in law may be stored for longer periods: Provided, further,That adequate safeguards are guaranteed by said laws authorizing their processing.\n\n The personal information controller must ensure implementation of personal information processing principles set out herein.</string>
+    <string name="agree">Agree</string>
+    <string name="profile">My Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="_9123456789">9123456789</string>
+    <string name="say_something_about_this_photo">Say something about this photo...</string>
+    <string name="add_to_your_post">Add to your post</string>
+    <string name="admin_announcement">Admin Announcement</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="write_your_comment_here">Write your comment here</string>
+    <string name="submit_comment">Submit Comment</string>
+    <string name="republic_act_10173_data_privacy_act_of_2012">Republic Act 10173 – Data Privacy Act of 2012</string>
+    <string name="processing_of_personal_information">Processing of Personal Information</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="pansol_officials">Pansol Officials</string>
+    <string name="barangay_pansol_quezon_city_n_local_government_unit">Barangay Pansol Quezon City Local Government Unit</string>
+    <string name="barangay_pansol_quezon_city">Barangay Pansol Quezon City</string>
+    <string name="district_iii">District III</string>
+    <string name="brgypansolqc_facebook_com">brgypansolqc@facebook.com</string>
+    <string name="pansol_list_of_data">Pansol List of Data</string>
+    <string name="news_feed">News Feed</string>
+    <string name="notes">Notes</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="Login">Login</string>
+    <string name="SIGN_UP">Sign Up</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="set_up_profile">Set-up Profile</string>
+    <string name="DIGITAL_FORENSICS">Barangay Pansol</string>
+    <string name="login_as">Login as:</string>
+    <string name="officials">Officials</string>
+    <string name="pansol_resident">Pansol Resident</string>
+    <string name="barangaypansold3qc_gmail_com">barangaypansold3qc@gmail.com</string>
+    <string name="_63836_791_88">+63836-791-88</string>
+    <string name="a_verification_code_has_been_sent_to_your_mobile_number">A verification code has been sent to your mobile number.</string>
+    <string name="StudentNo.">Resident No.</string>
+    <string name="Search">Search</string>
+    <string name="Content">By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Forenseek Identifier
+Forenseek Identifier is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+
+The Forenseek Identifier app stores and processes personal data that you have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Forenseek Identifier app won’t work properly or at all.
+
+
+        You should be aware that there are certain things that Handwriting Identifier for Forenseek Identifier will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Forenseek Identifier cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+
+
+        If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply.  As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+
+
+        Along the same lines,Forenseek Identifier cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Forenseek Identifiercannot accept responsibility
+
+
+        With respect to Forenseek Identifier responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Forenseek Identifier accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+
+
+        At some point, we may wish to update the app. The app is currently available on – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Forenseek Identifier does not promise that it will always update the app so that it is relevant to you and/or works with the version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.</string>
+
+    <string name="model">Model:</string>
+    <string-array name="models">
+        <item>Quantized</item>
+        <item>Float</item>
+    </string-array>
+
+    <string name="device">Device:</string>
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">Threads:</string>
+</resources>

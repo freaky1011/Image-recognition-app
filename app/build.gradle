@@ -1,0 +1,86 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+
+}
+
+android {
+    compileSdk 30
+
+    defaultConfig {
+        applicationId "com.example.forenseekforenseek"
+        minSdk 19
+        targetSdk 27
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    aaptOptions {
+        noCompress "tflite"
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+
+dependencies {
+    //
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.coordinatorlayout:coordinatorlayout:1.0.0'
+    implementation 'org.tensorflow:tensorflow-lite:0.0.0-nightly'
+    implementation 'org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly'
+    implementation 'org.tensorflow:tensorflow-lite-support:0.0.0-nightly'
+    implementation "com.google.guava:guava:16+"
+    //
+    implementation 'com.firebase:firebase-client-android:2.5.0'
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.1'
+    implementation 'me.biubiubiu.justifytext:library:1.1'
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    //noinspection GradleCompatible
+    implementation 'com.android.support:cardview-v7:28.0.0'
+    implementation 'com.google.android.material:material:1.1.0-beta01'
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.firebaseui:firebase-ui-database:6.4.0'
+
+    //noinspection GradleCompatible
+    implementation 'com.android.support:appcompat-v7:21.0.3'
+    implementation 'com.google.firebase:firebase-auth:21.0.1'
+    implementation 'com.google.firebase:firebase-database:20.0.3'
+    implementation 'com.orhanobut:dialogplus:1.11@aar'
+
+    //mlkit
+    //implementation 'com.google.firebase:firebase-ml-vision:24.0.3'
+    implementation 'com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0'
+    implementation 'com.google.android.gms:play-services-mlkit-text-recognition:17.0.1'
+//    implementation'com.google.firebase:firebase-ml-vision 24.1.0'
+
+    //image to text image lib
+    implementation 'com.google.android.gms:play-services-vision:20.1.3'
+
+    //IMAGECROP LIB
+    implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
+
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+}

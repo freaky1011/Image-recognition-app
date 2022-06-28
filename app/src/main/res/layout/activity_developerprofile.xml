@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:scrollbars="none"
+    android:overScrollMode="never"
+    android:background="@drawable/back"
+    android:layout_height="match_parent"
+    tools:context=".Developerprofile"
+    android:visibility="visible">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+
+
+        <LinearLayout
+            android:layout_width="400dp"
+            android:layout_height="350dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="@null"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/bb"
+                android:id="@+id/img1"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="BAYOT, STEVEN BRUCE G."
+                android:textStyle="bold"
+                android:textSize="30dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="184-0105"
+                android:textStyle="bold"
+                android:textSize="35dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="09776686009"
+                android:textStyle="bold"
+                android:textSize="35dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="Blk 2 Lot 11 Pook pag-asa Batasan Hills Qc"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textSize="15dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+
+
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="400dp"
+            android:layout_height="350dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="@null"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/cc"
+                android:id="@+id/img2"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="CRUZ, JERWELL T."
+                android:textStyle="bold"
+                android:textSize="30dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="183 0342"
+                android:textStyle="bold"
+                android:textSize="35dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="09655634016"
+                android:textStyle="bold"
+                android:textSize="35dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="41 manunggal St Tatalon qc"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textSize="15dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="400dp"
+            android:layout_height="350dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="@null"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/dd"
+                android:id="@+id/img3"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="ESPINO, TRISHA MAE O."
+                android:textStyle="bold"
+                android:textSize="30dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="184-0106"
+                android:textStyle="bold"
+                android:textSize="35dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="09770175768"
+                android:textStyle="bold"
+                android:textSize="35dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="411-b moriones st. Tondo manila"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textSize="15dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="400dp"
+            android:layout_height="350dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="@null"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/aa"
+                android:id="@+id/img4"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="VALDEZ, BRANDO D."
+                android:textStyle="bold"
+                android:textSize="30dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="184-0195"
+                android:textStyle="bold"
+                android:textSize="35dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="099957324150"
+                android:textStyle="bold"
+                android:textSize="35dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="40dp"
+                android:text="028 pansol avenue brgy. pansol q.c"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textSize="15dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"/>
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

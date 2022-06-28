@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Speechtotext"
+    android:padding="20dp"
+    android:background="@drawable/back">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        >
+
+        <TextView
+            android:id="@+id/txtDashboard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="S P E E C H T O T E X T"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginRight="20dp">
+
+        <TextView
+            android:id="@+id/textTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="210dp"
+            android:gravity="center"
+            android:text="PRESS MIC BUTTON TO SPEAK...."
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/voiceBtn"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_below="@+id/textTv"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="180dp"
+            android:background="@null"
+            android:foregroundGravity="bottom"
+            android:scaleType="fitCenter"
+            android:src="@drawable/mic" />
+
+
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>
